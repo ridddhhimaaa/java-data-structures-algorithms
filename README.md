@@ -98,26 +98,6 @@ JAVA/
 10. Graphs
 11. Dynamic programming
 
-## Daily Progress Tracker
-
-Day 1
-✔ Hello World
-
-Day 2
-✔ Print Name
-
-Day 3
-✔ Even Numbers
-
-Day 4
-✔ Odd Numbers
-
-Day 5
-✔ 1 to 10 and 10 to 1
-
-Day 6
-✔ Operators and Strings cleanup
-
 ## Learning Resources
 
 - Java official documentation: https://docs.oracle.com/en/java/
@@ -141,13 +121,3 @@ git commit -m "your generated commit"
 git push origin main
 ```
 
-## Next Suggested Practice Problems
-
-1. Multiplication table.
-2. Reverse a number.
-3. Count digits in a number.
-4. Prime number check.
-5. Palindrome number.
-6. Factorial.
-7. Fibonacci series.
-8. Pattern printing.
