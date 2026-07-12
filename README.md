@@ -1,27 +1,28 @@
 # Java Practice Repository
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Repository Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Java%20Practice%20Repository&fontSize=32&fontColor=ffffff&animation=fadeIn)
+
 This repository contains my daily Java practice problems for logic building, core language basics, and topic-wise problem solving. The goal is to keep every solution beginner-friendly, well-commented, interview-ready, and easy to review later.
 
 ## Repository Overview
 
 - Daily Java practice for logic building
 - Topic-wise problem solving inside `Code Base/`
-- Sequential practice files inside `Logic building/`
+- Sequential number practice inside `Logic Building/`
 - Clean Git history and recruiter-friendly documentation
 
-## Java Roadmap
+## Learning Objectives
 
-1. Java basics and syntax
-2. Input and output
-3. Conditional statements
-4. Loops and pattern printing
-5. Arrays
-6. Strings
-7. Functions and recursion
-8. Searching and sorting
-9. HashMap and collections
-10. Stack and queue
-11. Object-oriented programming
+- Build strong Java fundamentals
+- Practice solving problems with clean, readable code
+- Strengthen interview-ready logic building
+- Organize examples by topic for quick revision
+- Maintain a public portfolio that is easy to browse
 
 ## Folder Structure
 
@@ -29,17 +30,15 @@ This repository contains my daily Java practice problems for logic building, cor
 JAVA/
 ├── .vscode/
 ├── Code Base/
-│   ├── Basics/
-│   ├── Patterns/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── Functions/
-│   └── ...
-├── Logic building/
-│   ├── Code_1.java
-│   ├── Code_2.java
-│   ├── Code_3.java
-│   └── Code_4.java
+│   ├── Java Basics/
+│   │   ├── Operators/
+│   │   └── Input Output/
+│   └── Strings/
+├── Logic Building/
+│   └── Numbers/
+├── Resources/
+│   ├── Images/
+│   └── PDFs/
 └── README.md
 ```
 
@@ -47,16 +46,15 @@ JAVA/
 
 - Total Java practice files: 23
 - Files in `Code Base/`: 19
-- Files in `Logic building/`: 4
+- Files in `Logic Building/`: 4
 
 ## Topics Completed
 
-- Java syntax basics
-- Data types
+- Java basics
+- Operators
 - Input and output
-- Operators and comparisons
-- Loops
 - Strings
+- Number series
 
 ## Topics In Progress
 
@@ -66,20 +64,59 @@ JAVA/
 - Recursion
 - Searching
 - Sorting
-- HashMap
-- Stack
-- Queue
+- Bit manipulation
+- Mathematics
+- Collections
 - OOP
+
+## Java Roadmap
+
+1. Java syntax and basics
+2. Input and output
+3. Operators and conditions
+4. Loops and number series
+5. Strings
+6. Arrays
+7. Functions
+8. Recursion
+9. Searching and sorting
+10. Collections and HashMap
+11. OOP and exception handling
+12. File handling and multithreading
+
+## DSA Roadmap
+
+1. Time and space complexity
+2. Arrays and strings
+3. Recursion and backtracking
+4. Searching
+5. Sorting
+6. HashMap and HashSet
+7. Stack and queue
+8. Linked list
+9. Trees
+10. Graphs
+11. Dynamic programming
 
 ## Daily Progress Tracker
 
-| Day | Problem / Topic | Status |
-| --- | --- | --- |
-| Day 1 | Core Java practice | Completed |
-| Day 2 | Logic building practice | Completed |
-| Day 3 | Topic-wise Java exercises | Completed |
-| Day 4 | Logic building practice | Completed |
-| Day 5 | Add next solved problem | In progress |
+Day 1
+✔ Hello World
+
+Day 2
+✔ Print Name
+
+Day 3
+✔ Even Numbers
+
+Day 4
+✔ Odd Numbers
+
+Day 5
+✔ 1 to 10 and 10 to 1
+
+Day 6
+✔ Operators and Strings cleanup
 
 ## Learning Resources
 
@@ -106,9 +143,11 @@ git push origin main
 
 ## Next Suggested Practice Problems
 
-1. Print odd numbers and even numbers.
-2. Multiplication table.
-3. Reverse a number.
-4. Count digits in a number.
-5. Check palindrome number.
-6. Print patterns with nested loops.
+1. Multiplication table.
+2. Reverse a number.
+3. Count digits in a number.
+4. Prime number check.
+5. Palindrome number.
+6. Factorial.
+7. Fibonacci series.
+8. Pattern printing.
