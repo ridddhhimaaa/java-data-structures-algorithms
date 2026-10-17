@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /*
 ==================================================
 Problem:
@@ -31,6 +29,8 @@ Riddhima Rai
 
 ==================================================
 */
+import java.util.Scanner;
+
 public class ReadAgeInput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

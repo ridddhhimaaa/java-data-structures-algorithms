@@ -7,15 +7,16 @@ Difficulty:
 Easy
 
 Topic:
-Numbers
+Numbers, Loops
 
 Approach:
-Step 1: Start from 10.
-Step 2: Keep printing while the number is at least 1.
-Step 3: Decrease the number by 1 after each print.
+Step 1: Initialize the counter to 10.
+Step 2: Continue while the counter is at least 1.
+Step 3: Print the counter.
+Step 4: Decrease the counter by 1.
 
 Algorithm:
-Use a for loop to count downward from 10 to 1 and print each value.
+Use a while loop to print each integer from 10 down to 1.
 
 Time Complexity:
 O(n)
@@ -28,10 +29,12 @@ Riddhima Rai
 
 ==================================================
 */
-public class Print10To1 {
-    public static void main(String[] args) {
-        for (int number = 10; number >= 1; number--) {
-            System.out.println(number);
+public class Print10To1{
+    public static void main(String[] args){
+        int i = 10;
+        while (i >= 1) {
+            System.out.println(i);
+            i--;
         }
     }
 }

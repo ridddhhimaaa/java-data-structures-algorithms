@@ -7,14 +7,15 @@
 
 ![Repository Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Java%20Practice%20Repository&fontSize=32&fontColor=ffffff&animation=fadeIn)
 
-This repository contains my daily Java practice problems for logic building, core language basics, and topic-wise problem solving. The goal is to keep every solution beginner-friendly, well-commented, interview-ready, and easy to review later.
+This repository contains beginner-friendly Java practice programs for core language
+concepts and progressively structured logic-building exercises.
 
 ## Repository Overview
 
 - Daily Java practice for logic building
 - Topic-wise problem solving inside `Code Base/`
 - Sequential number practice inside `Logic Building/`
-- Clean Git history and recruiter-friendly documentation
+- Documentation and sample output for every program
 
 ## Learning Objectives
 
@@ -36,17 +37,15 @@ JAVA/
 │   └── Strings/
 ├── Logic Building/
 │   └── Numbers/
-├── Resources/
-│   ├── Images/
-│   └── PDFs/
-└── README.md
+└── UserInput.java
 ```
 
 ## Problems Solved
 
-- Total Java practice files: 23
+- Total Java practice files: 25
 - Files in `Code Base/`: 19
-- Files in `Logic Building/`: 4
+- Files in `Logic Building/Numbers/`: 5
+- Root-level input practice files: 1
 
 ## Topics Completed
 
@@ -55,6 +54,41 @@ JAVA/
 - Input and output
 - Strings
 - Number series
+
+## Practice Programs
+
+### Java Basics
+
+- [HelloWorld.java](Code%20Base/Java%20Basics/HelloWorld.java)
+- [HelloName.java](Code%20Base/Java%20Basics/HelloName.java)
+- [PrintName.java](Code%20Base/Java%20Basics/PrintName.java)
+- [FullNameGreeting.java](Code%20Base/Java%20Basics/FullNameGreeting.java)
+- [PrintStatements.java](Code%20Base/Java%20Basics/PrintStatements.java)
+- [DataTypesDemo.java](Code%20Base/Java%20Basics/DataTypesDemo.java)
+- [AsciiDemo.java](Code%20Base/Java%20Basics/AsciiDemo.java)
+- [StudentDetails.java](Code%20Base/Java%20Basics/StudentDetails.java)
+- [SumOfTwoNumbers.java](Code%20Base/Java%20Basics/SumOfTwoNumbers.java)
+- [RectangleArea.java](Code%20Base/Java%20Basics/RectangleArea.java)
+- [ItemCostCalculator.java](Code%20Base/Java%20Basics/ItemCostCalculator.java)
+- [ReadAgeInput.java](Code%20Base/Java%20Basics/Input%20Output/ReadAgeInput.java)
+
+### Operators and Strings
+
+- [ArithmeticOperators.java](Code%20Base/Java%20Basics/Operators/ArithmeticOperators.java)
+- [AssignmentOperators.java](Code%20Base/Java%20Basics/Operators/AssignmentOperators.java)
+- [ComparisonOperators.java](Code%20Base/Java%20Basics/Operators/ComparisonOperators.java)
+- [LogicalOperators.java](Code%20Base/Java%20Basics/Operators/LogicalOperators.java)
+- [StringIntro.java](Code%20Base/Strings/StringIntro.java)
+- [StringMethodsDemo.java](Code%20Base/Strings/StringMethodsDemo.java)
+
+### Logic Building: Numbers
+
+- [Print1To10.java](Logic%20Building/Numbers/Print1To10.java)
+- [Print10To1.java](Logic%20Building/Numbers/Print10To1.java)
+- [PrintOddNumbers.java](Logic%20Building/Numbers/PrintOddNumbers.java)
+- [PrintEvenNumbers.java](Logic%20Building/Numbers/PrintEvenNumbers.java)
+- [MultiplicationTable.java](Logic%20Building/Numbers/MultiplicationTable.java)
+- [UserInput.java](UserInput.java)
 
 ## Topics In Progress
 
@@ -109,7 +143,7 @@ JAVA/
 
 - Fix code before committing.
 - Keep naming simple and consistent.
-- Add comments that explain the approach.
+- Add a standard problem, approach, algorithm, complexity, and sample-output header.
 - Update this README when new problems are added.
 - Ignore compiled `.class` files.
 
@@ -120,4 +154,3 @@ git add .
 git commit -m "your generated commit"
 git push origin main
 ```
-

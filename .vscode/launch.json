@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "Java_b9400b9c"
+        },
+        {
+            "type": "java",
+            "name": "PrintOddNumbers",
+            "request": "launch",
+            "mainClass": "PrintOddNumbers",
+            "projectName": "Java_b9400b9c"
+        },
+        {
+            "type": "java",
+            "name": "PrintEvenNumbers",
+            "request": "launch",
+            "mainClass": "PrintEvenNumbers",
+            "projectName": "Java_b9400b9c"
+        },
+        {
+            "type": "java",
+            "name": "Print10To1",
+            "request": "launch",
+            "mainClass": "Print10To1",
+            "projectName": "Java_b9400b9c"
+        },
+        {
+            "type": "java",
+            "name": "Print1To10",
+            "request": "launch",
+            "mainClass": "Print1To10",
+            "projectName": "Java_b9400b9c"
+        },
+        {
+            "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "UserInput",
+            "projectName": "Java_b9400b9c"
+        },
+        {
+            "type": "java",
             "name": "Num_1",
             "request": "launch",
             "mainClass": "Num_1",
